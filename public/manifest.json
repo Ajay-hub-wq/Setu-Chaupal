@@ -2,7 +2,7 @@
   "name": "Setu",
   "short_name": "Setu",
   "description": "The Village Square",
-  "start_url": "/",
+  "start_url": "/https://setu-chaupal.vercel.app/",
   "display": "standalone",
   "background_color": "#2A201A",
   "theme_color": "#D4A373",
