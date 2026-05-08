@@ -1,0 +1,17 @@
+{
+  "name": "Setu",
+  "short_name": "Setu",
+  "description": "The Village Square",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2A201A",
+  "theme_color": "#D4A373",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTIwIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6IzJBMjAxQTsiPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIwLCAxMCkgc2NhbGUoMi41KSI+PHBhdGggZD0iTTEyIDIydi04IiBmaWxsPSJub25lIiBzdHJva2U9IiNENEEzNzMiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTIgMTRjLTIuNS0yLjUtMi02LTItNnMxLjUtMSAzLTEgMyAxIDMgMSAuNSAzLjUtMiA2IiBmaWxsPSJub25lIiBzdHJva2U9IiNENEEzNzMiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNOCAxMmMtMi41IDAtNC0xLjUtNC0xLjVzMS0yLjUgMy0yLjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0Q0QTM3MyIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik0xNiAxMmMyLjUgMCA0LTEuNSA0LTEuNXMtMS0yLjUtMy0yLjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0Q0QTM3MyIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik00IDIyaDE2IiBmaWxsPSJub25lIiBzdHJva2U9IiNENEEzNzMiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L2c+PHRleHQgeD0iNTAlIiB5PSIxMTAiIGZvbnQtZmFtaWx5PSJzZXJpZiIgZm9udC1zaXplPSIyNCIgZmlsbD0iI0Q0QTM3MyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC13ZWlnaHQ9ImJvbGQiPlNldHU8L3RleHQ+PC9zdmc+",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
