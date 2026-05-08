@@ -3,3 +3,27 @@ p {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
+/* मोबाइल स्क्रीन के लिए सुधार */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden; /* ताकि स्क्रीन दाएं-बाएं न हिले */
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* आपकी ऐप के सभी मुख्य डिब्बे (Containers) के लिए */
+div {
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+/* वीडियो और फोटो को फिट करने के लिए */
+video, img {
+  max-width: 100% !important;
+  height: auto !important;
+}
